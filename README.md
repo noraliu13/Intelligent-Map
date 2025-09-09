@@ -1,5 +1,4 @@
 # Intelligent-Map
-🚦 Creating an Intelligent Mapping &amp; Route Navigation System!
 
 **Source Code Available Upon Demand**
 
