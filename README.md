@@ -45,11 +45,11 @@ The goal is to simplify urban commuting by integrating routing, live data, and o
 **Directions UI:**  
 ![Directions UI](directions_UI.png)  
 
-**Directions Words:**  
-![Directions Words](directions_words.png)  
+**Directions Route:**  
+![Directions Route](directions_words.png)  
 
 **Directions Implementation Flowchart:**  
-![Directions Implementation](directions_implemention.png)  
+![Directions Implementation](directions_implementation.png)  
 
 ---
 
