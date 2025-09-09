@@ -3,9 +3,9 @@
 
 **Source Code Available Upon Demand**
 
-This project focuses on creating an intelligent navigation system that **streamlines the modern commuter’s experience** across multiple modes of transport. The application provides optimized **car and bicycle routes**, **real-time weather updates**, and **concise navigation directions**, all in one platform.
+This project demonstrates an intelligent navigation system designed for multi-modal commuting. The application provides **optimized car and bicycle routes**, **real-time weather updates**, and **concise navigation directions** within a single platform.
 
-The goal is to simplify urban commuting by integrating routing, live data, and optimization techniques into a **single, user-friendly system**.
+The system focuses on **exploring and visualizing route planning and optimization techniques**, offering a hands-on demonstration of routing algorithms and weather-aware navigation features.
 
 ---
 
