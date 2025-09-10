@@ -23,14 +23,15 @@ The system focuses on **exploring and visualizing route planning and optimizatio
 - Demonstrates dynamic pathfinding via algorithmic optimization  
 - **Demo available**:
 
-**Car Routing:**  
-![Car Routing](images/car_routing.png)  
+## Car Routing
+<img src="images/car_routing.png" alt="Car Routing" style="border:2px solid #000; padding:5px;">
 
-**Bicycle Routing:**  
-![Bicycle Routing](images/bicycle_routing.png)  
+## Bicycle Routing
+<img src="images/bicycle_routing.png" alt="Bicycle Routing" style="border:2px solid #000; padding:5px;">
 
-**Routing Implementation Flowchart:**  
-![Routing Implementation](images/routing_implementation.png)  
+## Routing Implementation Flowchart
+<img src="images/routing_implementation.png" alt="Routing Implementation Flowchart" style="border:2px solid #000; padding:5px;">
+
 
 ### 🌤 Real-Time Weather Insights
 - Displays **temperature, wind speed, and precipitation**  
