@@ -42,14 +42,14 @@ The system focuses on **exploring and visualizing route planning and optimizatio
 - Directions are short, clear, and commuter-friendly  
 - Flow is represented in a **Directions Implementation Flowchart**
 
-**Directions UI:**  
-![Directions UI](images/directions_UI.png)  
+## Directions UI
+<img src="images/directions_UI.png" alt="Directions UI" style="border:2px solid #000; padding:5px;">
 
-**Directions Route:**  
-![Directions Route](images/directions_words.png)  
+## Directions Route
+<img src="images/directions_words.png" alt="Directions Route" style="border:2px solid #000; padding:5px;">
 
-**Directions Implementation Flowchart:**  
-![Directions Implementation](images/directions_implementation.png)  
+## Directions Implementation Flowchart
+<img src="images/directions_implementation.png" alt="Directions Implementation Flowchart" style="border:2px solid #000; padding:5px;">
 
 ---
 
