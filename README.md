@@ -24,13 +24,13 @@ The system focuses on **exploring and visualizing route planning and optimizatio
 - **Demo available**:
 
 **Car Routing:**  
-![Car Routing](car_routing.png)  
+![Car Routing](images/car_routing.png)  
 
 **Bicycle Routing:**  
-![Bicycle Routing](bicycle_routing.png)  
+![Bicycle Routing](images/bicycle_routing.png)  
 
 **Routing Implementation Flowchart:**  
-![Routing Implementation](routing_implementation.png)  
+![Routing Implementation](images/routing_implementation.png)  
 
 ### 🌤 Real-Time Weather Insights
 - Displays **temperature, wind speed, and precipitation**  
@@ -42,13 +42,13 @@ The system focuses on **exploring and visualizing route planning and optimizatio
 - Flow is represented in a **Directions Implementation Flowchart**
 
 **Directions UI:**  
-![Directions UI](directions_UI.png)  
+![Directions UI](images/directions_UI.png)  
 
 **Directions Route:**  
-![Directions Route](directions_words.png)  
+![Directions Route](images/directions_words.png)  
 
 **Directions Implementation Flowchart:**  
-![Directions Implementation](directions_implementation.png)  
+![Directions Implementation](images/directions_implementation.png)  
 
 ---
 
