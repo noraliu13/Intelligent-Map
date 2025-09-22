@@ -1,20 +1,22 @@
 # Intelligent-Map
 
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![EZGL](https://img.shields.io/badge/EZGL-%23FF5733?style=for-the-badge)
+![Open-Meteo API](https://img.shields.io/badge/Open-Meteo%20API-%234CAF50?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/Multithreading-%23F39C12?style=for-the-badge)
+
 **Source Code Available Upon Demand**
 
 This project demonstrates an intelligent navigation system designed for multi-modal commuting. The application provides **optimized car and bicycle routes**, **real-time weather updates**, and **concise navigation directions** within a single platform.
 
 The system focuses on **exploring and visualizing route planning and optimization techniques**, offering a hands-on demonstration of routing algorithms and weather-aware navigation features.
 
----
 
 ## 🛠 Tech Stack / Tools
 - **C++** – Core logic and algorithm implementation  
 - **EZGL** - Graphics/Visualization
 - **Open-Meteo API** – Real-time weather integration  
 - **Multithreading** – Parallel computations for route optimization  
-
----
 
 ## 🚗🚴‍♂️ Features
 
@@ -23,13 +25,13 @@ The system focuses on **exploring and visualizing route planning and optimizatio
 - Demonstrates dynamic pathfinding via algorithmic optimization  
 - **Demo available**:
 
-## Car Routing
+#### Car Routing
 <img src="images/car_routing.png" alt="Car Routing" style="border:2px solid #000; padding:5px;">
 
-## Bicycle Routing
+#### Bicycle Routing
 <img src="images/bicycle_routing.png" alt="Bicycle Routing" style="border:2px solid #000; padding:5px;">
 
-## Routing Implementation Flowchart
+#### Routing Implementation Flowchart
 <img src="images/routing_implementation.png" alt="Routing Implementation Flowchart" style="border:2px solid #000; padding:5px;">
 
 
@@ -42,16 +44,14 @@ The system focuses on **exploring and visualizing route planning and optimizatio
 - Directions are short, clear, and commuter-friendly  
 - Flow is represented in a **Directions Implementation Flowchart**
 
-## Directions UI
+#### Directions UI
 <img src="images/directions_UI.png" alt="Directions UI" style="border:2px solid #000; padding:5px;">
 
-## Directions Route
+#### Directions Route
 <img src="images/directions_words.png" alt="Directions Route" style="border:2px solid #000; padding:5px;">
 
-## Directions Implementation Flowchart
+#### Directions Implementation Flowchart
 <img src="images/directions_implementation.png" alt="Directions Implementation Flowchart" style="border:2px solid #000; padding:5px;">
-
----
 
 ## 📊 Travelling Salesperson Problem (TSP) Solution
 
