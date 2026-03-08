@@ -12,23 +12,23 @@ This project demonstrates an intelligent navigation system designed for multi-mo
 The system focuses on **exploring and visualizing route planning and optimization techniques**, offering a hands-on demonstration of routing algorithms and weather-aware navigation features.
 
 
-## 🛠 Tech Stack / Tools
+## Tech Stack / Tools
 - **C++** – Core logic and algorithm implementation  
 - **EZGL** - Graphics/Visualization
 - **Open-Meteo API** – Real-time weather integration  
 - **Multithreading** – Parallel computations for route optimization  
 
-## 🚗🚴‍♂️ Features
+## Features
 
 ### Car & Bicycle Routing
 - Provides optimized routes tailored for both car and bicycle commuters  
 - Demonstrates dynamic pathfinding via algorithmic optimization  
 - **Demo available**:
 
-#### Car Routing
+#### 🚗 Car Routing
 <img src="images/car_routing.png" alt="Car Routing" style="border:2px solid #000; padding:5px;">
 
-#### Bicycle Routing
+#### 🚴‍♂️ Bicycle Routing
 <img src="images/bicycle_routing.png" alt="Bicycle Routing" style="border:2px solid #000; padding:5px;">
 
 #### Routing Implementation Flowchart
@@ -40,7 +40,7 @@ The system focuses on **exploring and visualizing route planning and optimizatio
 - Powered by **live data** from the [Open-Meteo API](https://open-meteo.com/)  
 - Helps commuters adjust travel plans with accurate weather forecasts  
 
-### 🧭 Intuitive & Concise Directions
+### Intuitive & Concise Directions
 - Directions are short, clear, and commuter-friendly  
 - Flow is represented in a **Directions Implementation Flowchart**
 
@@ -53,7 +53,7 @@ The system focuses on **exploring and visualizing route planning and optimizatio
 #### Directions Implementation Flowchart
 <img src="images/directions_implementation.png" alt="Directions Implementation Flowchart" style="border:2px solid #000; padding:5px;">
 
-## 📊 Travelling Salesperson Problem (TSP) Solution
+## Travelling Salesperson Problem (TSP) Solution
 
 The system incorporates advanced optimization techniques to solve routing problems, including the **Travelling Salesperson Problem (TSP)**.
 
